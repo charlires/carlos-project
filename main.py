@@ -4,3 +4,4 @@ print(nombre)
 
 # test
 print(1 + 1 == 2)
+print(2 + 1 == 3)
